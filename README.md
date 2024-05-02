@@ -9,15 +9,24 @@ In this paper, a novel feature extraction method termed FResNet is introduced, w
 
 # Start
 ## Dataset
-miniImageNet: Download Link: [[BaiduCloud](https://pan.baidu.com/s/1Wi06keM-1WXP26YqwdpaFw?pwd=ankq)] [[GoogleDrive](https://drive.google.com/file/d/1aBxfcU5cn-htIlqriiOQCOXp_t9TOm9g/view?usp=sharing)].
+MiniImagenet: Download Link: [[BaiduCloud](https://pan.baidu.com/s/1Wi06keM-1WXP26YqwdpaFw?pwd=ankq)] [[GoogleDrive](https://drive.google.com/file/d/1aBxfcU5cn-htIlqriiOQCOXp_t9TOm9g/view?usp=sharing)].
 
 CUB: Download Link: [[BaiduCloud](https://pan.baidu.com/s/1JyVQC1-cLiPIl6yYAdlkeA?pwd=yrv1)] [[GoogleDrive](https://drive.google.com/file/d/1sbOiZP-U4A7NdhkJo7YzeffNf5GatIwk/view?usp=sharing)].
 
 Download the Mini-ImageNet dataset and the CUB dataset. Set the dataset paths in the `run_test.sh` script.
 
+## Models
+MiniImagenet:
+
+[5way1shot](https://pan.baidu.com/s/1E7W7upbyBejgIMkeT7HPjA?pwd=f0t9) [5way5shot](https://pan.baidu.com/s/1rQINbaOMie2XzNKCenwmDA?pwd=3tom)
+
+CUB：
+[5way1shot](https://pan.baidu.com/s/15K2u6RX7rZFTJxccSJdDCQ?pwd=k1w1)) [5way5shot](https://pan.baidu.com/s/1k-cVTGwLZYVljiHSIRZZNw?pwd=wq0e)
+
+
 ## Test
 
-Mini-Imagnet test: 
+MiniImagenet test: 
 ```shell
 cd script/mini-image/
 ./run_test.sh
