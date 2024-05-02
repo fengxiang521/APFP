@@ -9,8 +9,9 @@ In this paper, a novel feature extraction method termed FResNet is introduced, w
 
 # Start
 ## Dataset
-miniImageNet: Download Link: [BaiduCloud] [GoogleDrive].
-CUB: Download Link: [BaiduCloud] [GoogleDrive].
+miniImageNet: Download Link: [[BaiduCloud](https://pan.baidu.com/s/1Wi06keM-1WXP26YqwdpaFw?pwd=ankq)] [[GoogleDrive](https://drive.google.com/file/d/1aBxfcU5cn-htIlqriiOQCOXp_t9TOm9g/view?usp=sharing)].
+
+CUB: Download Link: [[BaiduCloud](https://pan.baidu.com/s/1JyVQC1-cLiPIl6yYAdlkeA?pwd=yrv1)] [[GoogleDrive](https://drive.google.com/file/d/1sbOiZP-U4A7NdhkJo7YzeffNf5GatIwk/view?usp=sharing)].
 
 Download the Mini-ImageNet dataset and the CUB dataset. Set the dataset paths in the `run_test.sh` script.
 
