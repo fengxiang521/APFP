@@ -17,11 +17,10 @@ Download the Mini-ImageNet dataset and the CUB dataset. Set the dataset paths in
 
 ## Models
 MiniImagenet:
-
-[5way1shot](https://pan.baidu.com/s/1E7W7upbyBejgIMkeT7HPjA?pwd=f0t9) [5way5shot](https://pan.baidu.com/s/1rQINbaOMie2XzNKCenwmDA?pwd=3tom)
+[[5way1shot](https://pan.baidu.com/s/1E7W7upbyBejgIMkeT7HPjA?pwd=f0t9)]  [[5way5shot](https://pan.baidu.com/s/1rQINbaOMie2XzNKCenwmDA?pwd=3tom)]
 
 CUB：
-[5way1shot](https://pan.baidu.com/s/15K2u6RX7rZFTJxccSJdDCQ?pwd=k1w1)) [5way5shot](https://pan.baidu.com/s/1k-cVTGwLZYVljiHSIRZZNw?pwd=wq0e)
+[[5way1shot](https://pan.baidu.com/s/15K2u6RX7rZFTJxccSJdDCQ?pwd=k1w1)]  [[5way5shot](https://pan.baidu.com/s/1k-cVTGwLZYVljiHSIRZZNw?pwd=wq0e)]
 
 
 ## Test
@@ -46,5 +45,5 @@ torch: 1.11.0+cu113
 GPU (RTX3090) + CUDA11.3.109
 
 # Acknowledgments
-Our code builds upon the the following code publicly available:
-[https://github.com/Fei-Long121/DeepBDC]
+Our code builds upon the the following code publicly available:[[DeepBDC](https://github.com/Fei-Long121/DeepBDC)]
+
