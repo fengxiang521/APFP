@@ -19,6 +19,13 @@ cub test:
 cd script/cub/
 ./run_test.sh
 ```
+# Implementation environment
+Note that the test accuracy may slightly vary with different Pytorch/CUDA versions, GPUs, etc.
+
+Linux
+Python 3.8.
+torch: 1.11.0+cu113
+GPU (RTX3090) + CUDA11.3.109
 
 # Acknowledgments
 Our code builds upon the the following code publicly available:
